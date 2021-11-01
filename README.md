@@ -32,3 +32,7 @@ git remote add nombreRandom URL
 eliminar romotos
 
 git remote remove nombreRandom
+
+#stash
+
+esta linea representa una tarea inconclusa. Tarea terminada.
