@@ -20,3 +20,15 @@ personales
 
 Para crear un fork debes iniciar sesion en githubgy y luego ingresar a landin page del
 proyecto del que quieras sacar tu fork
+
+#litar remotos
+
+git remote -v  
+
+agregar remotos
+
+git remote add nombreRandom URL  
+
+eliminar romotos
+
+git remote remove nombreRandom
